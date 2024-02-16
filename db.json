@@ -99,7 +99,7 @@
     {
       "id": 9,
       "destination": "Rio de Janeiro, Brazil",
-      "image": "https://img.freepik.com/free-photo/aerial-shot-beautiful-copacabana-beach-rio-de-janeiro-brazil-sunset-sky_181624-7183.jpg?w=1060&t=st=1708103020~exp=1708103620~hmac=a8efc7168a88dbd5d717edd05ec9156cb9fe9fb4da3154a8a91e3e20512bc196",
+      "image": "https://www.visitbrazil.net/wp-content/uploads/2020/01/Cristo-Redentor-Brazil-800x445.jpg",
       "days": 7,
       "totalCost": 2500,
       "description": "Experience the vibrant culture and stunning beaches of Rio de Janeiro.",
@@ -111,7 +111,7 @@
     {
       "id": 10,
       "destination": "Sydney, Australia",
-      "image": "https://img.freepik.com/free-photo/beautiful-shot-sydney-harbor-bridge-with-light-pink-blue-sky_181624-16041.jpg?w=1380&t=st=1708103175~exp=1708103775~hmac=bce9dbbb82beb9bfa2ce9fb32951624535efcb827c8bfba9c4c5cba01dd7e2c4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
       "days": 7,
       "totalCost": 2800,
       "description": "Immerse yourself in the vibrant culture and stunning landmarks of Sydney.",
@@ -147,7 +147,7 @@
     {
       "id": 13,
       "destination": "Machu Picchu, Peru",
-      "image": "https://img.freepik.com/free-photo/landscape-machu-picchu-sunlight-blue-sky-peru_181624-12113.jpg?w=1380&t=st=1708103331~exp=1708103931~hmac=c5853c17d513fec60187775361f45115e8a7875ef311ce8d220bf83a1f7d22e6",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Before_Machu_Picchu.jpg/1024px-Before_Machu_Picchu.jpg",
       "days": 10,
       "totalCost": 1800,
       "description": "Explore the ancient ruins and breathtaking landscapes of Machu Picchu.",
