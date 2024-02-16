@@ -7,10 +7,10 @@
       "days": 7,
       "totalCost": 2200,
       "description": "Explore the romantic streets of Paris.",
-      "warmest month": "July",
-      "rainiest month": "December",
-      "cheapest month": "January",
-      "best season": "March to May, September to October"
+      "warmestmonth": "July",
+      "rainiestmonth": "December",
+      "cheapestmonth": "January",
+      "bestseason": "March to May, September to October"
     },
     {
       "id": 2,
@@ -19,10 +19,10 @@
       "days": 7,
       "totalCost": 1866,
       "description": "Discover the vibrant culture of Tokyo.",
-      "warmest month": "August",
-      "rainiest month": "October",
-      "cheapest month": "January",
-      "best season": "March to April, September to November"
+      "warmestmonth": "August",
+      "rainiestmonth": "October",
+      "cheapestmonth": "January",
+      "bestseason": "March to April, September to November"
     },
     {
       "id": 3,
@@ -31,10 +31,10 @@
       "days": 3,
       "totalCost": 346,
       "description": "Experience the rich history of Rome.",
-      "warmest month": "July",
-      "rainiest month": "November",
-      "cheapest month": "February",
-      "best season": "March to May"
+      "warmestmonth": "July",
+      "rainiestmonth": "November",
+      "cheapestmonth": "February",
+      "bestseason": "March to May"
     },
     {
       "id": 4,
@@ -43,10 +43,10 @@
       "days": 3,
       "totalCost": 349,
       "description": "Enjoy the vibrant culture of Barcelona.",
-      "warmest month": "August",
-      "rainiest month": "October",
-      "cheapest month": "January",
-      "best season": "April to July"
+      "warmestmonth": "August",
+      "rainiestmonth": "October",
+      "cheapestmonth": "January",
+      "bestseason": "April to July"
     },
     {
       "id": 5,
@@ -55,10 +55,10 @@
       "days": 7,
       "totalCost": 992,
       "description": "Experience Bangkok and Thailand.",
-      "warmest month": "April",
-      "rainiest month": "September",
-      "cheapest month": "September",
-      "best season": "November to March"
+      "warmestmonth": "April",
+      "rainiestmonth": "September",
+      "cheapestmonth": "September",
+      "bestseason": "November to March"
     },
     {
       "id": 6,
@@ -67,10 +67,10 @@
       "days": 3,
       "totalCost": 341,
       "description": "Discover the ancient history of Athens.",
-      "warmest month": "August",
-      "rainiest month": "December",
-      "cheapest month": "September",
-      "best season": "May, September to October"
+      "warmestmonth": "August",
+      "rainiestmonth": "December",
+      "cheapestmonth": "September",
+      "bestseason": "May, September to October"
     },
     {
       "id": 7,
@@ -79,10 +79,10 @@
       "days": 3,
       "totalCost": 360,
       "description": "Explore the charming streets of Prague.",
-      "warmest month": "July",
-      "rainiest month": "July",
-      "cheapest month": "January",
-      "best season": "April to May, September to October"
+      "warmestmonth": "July",
+      "rainiestmonth": "July",
+      "cheapestmonth": "January",
+      "bestseason": "April to May, September to October"
     },
     {
       "id": 8,
@@ -91,10 +91,10 @@
       "days": 5,
       "totalCost": 1800,
       "description": "Experience the bustling metropolis of New York City.",
-      "warmest month": "July",
-      "rainiest month": "April",
-      "cheapest month": "January",
-      "best season": "March to May, September to November"
+      "warmestmonth": "July",
+      "rainiestmonth": "April",
+      "cheapestmonth": "January",
+      "bestseason": "March to May, September to November"
     },
     {
       "id": 9,
@@ -103,10 +103,10 @@
       "days": 7,
       "totalCost": 2500,
       "description": "Experience the vibrant culture and stunning beaches of Rio de Janeiro.",
-      "warmest month": "February",
-      "rainiest month": "December",
-      "cheapest month": "May",
-      "best season": "December to March"
+      "warmestmonth": "February",
+      "rainiestmonth": "December",
+      "cheapestmonth": "May",
+      "bestseason": "December to March"
     },
     {
       "id": 10,
@@ -115,10 +115,10 @@
       "days": 7,
       "totalCost": 2800,
       "description": "Immerse yourself in the vibrant culture and stunning landmarks of Sydney.",
-      "warmest month": "January",
-      "rainiest month": "June",
-      "cheapest month": "August",
-      "best season": "March to May, September to November"
+      "warmestmonth": "January",
+      "rainiestmonth": "June",
+      "cheapestmonth": "August",
+      "bestseason": "March to May, September to November"
     },
     {
       "id": 11,
@@ -127,10 +127,10 @@
       "days": 7,
       "totalCost": 2100,
       "description": "Explore the breathtaking landscapes and vibrant culture of Cape Town.",
-      "warmest month": "February",
-      "rainiest month": "June",
-      "cheapest month": "May",
-      "best season": "September to April"
+      "warmestmonth": "February",
+      "rainiestmonth": "June",
+      "cheapestmonth": "May",
+      "bestseason": "September to April"
     },
     {
       "id": 12,
@@ -139,10 +139,10 @@
       "days": 5,
       "totalCost": 1500,
       "description": "Experience the unique blend of cultures and rich history of Istanbul.",
-      "warmest month": "July",
-      "rainiest month": "December",
-      "cheapest month": "February",
-      "best season": "April to May, September to October"
+      "warmestmonth": "July",
+      "rainiestmonth": "December",
+      "cheapestmonth": "February",
+      "bestseason": "April to May, September to October"
     },
     {
       "id": 13,
@@ -151,10 +151,10 @@
       "days": 10,
       "totalCost": 1800,
       "description": "Explore the ancient ruins and breathtaking landscapes of Machu Picchu.",
-      "warmest month": "October",
-      "rainiest month": "January",
-      "cheapest month": "May",
-      "best season": "May to September"
+      "warmestmonth": "October",
+      "rainiestmonth": "January",
+      "cheapestmonth": "May",
+      "bestseason": "May to September"
     },
     {
       "id": 14,
@@ -163,10 +163,10 @@
       "days": 5,
       "totalCost": 2500,
       "description": "Experience the luxury and modernity of Dubai.",
-      "warmest month": "July",
-      "rainiest month": "February",
-      "cheapest month": "June",
-      "best season": "November to April"
+      "warmestmonth": "July",
+      "rainiestmonth": "February",
+      "cheapestmonth": "June",
+      "bestseason": "November to April"
     },
     {
       "id": 15,
@@ -175,10 +175,10 @@
       "days": 5,
       "totalCost": 1600,
       "description": "Experience the charming canals and vibrant culture of Amsterdam.",
-      "warmest month": "July",
-      "rainiest month": "October",
-      "cheapest month": "February",
-      "best season": "April to May, September to October"
+      "warmestmonth": "July",
+      "rainiestmonth": "October",
+      "cheapestmonth": "February",
+      "bestseason": "April to May, September to October"
     }
   ]
 }
