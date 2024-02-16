@@ -1,0 +1,25 @@
+
+
+API:
+- add data to db.json
+- commit + push
+- deploy on adaptable
+- test with Postmal --> GET, POST, PUT, DELETE
+
+https://react-app-json-server-backend.adaptable.app
+
+React app:
+- 
+- 
+- 
+- 
+
+
+
+______
+
+- setup component library
+- render a button
+- forget about the component library and focus on getting the functionality working
+- get MVP working
+- work on CSS
