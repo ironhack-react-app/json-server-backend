@@ -23,7 +23,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "October",
       "cheapestmonth": "January",
-      "bestseason": "March to April, September to November"
+      "bestseason": "March to April, September to November",
+      "coordination":[35.68583095396742, 139.7528528297642]
     },
     {
       "id": 3,
