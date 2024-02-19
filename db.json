@@ -10,7 +10,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "December",
       "cheapestmonth": "January",
-      "bestseason": "March to May, September to October"
+      "bestseason": "March to May, September to October",
+      "coordination": [48.86314634052172, 2.2941632958970226]
     },
     {
       "id": 2,
@@ -142,7 +143,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "December",
       "cheapestmonth": "February",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[41.02178371684575, 28.973716744844722]
     },
     {
       "id": 13,
