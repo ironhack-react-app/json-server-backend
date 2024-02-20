@@ -10,7 +10,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "December",
       "cheapestmonth": "January",
-      "bestseason": "March to May, September to October"
+      "bestseason": "March to May, September to October",
+      "coordination": [48.86314634052172, 2.2941632958970226]
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "October",
       "cheapestmonth": "January",
-      "bestseason": "March to April, September to November"
+      "bestseason": "March to April, September to November",
+      "coordination":[35.68583095396742, 139.7528528297642]
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "November",
       "cheapestmonth": "February",
-      "bestseason": "March to May"
+      "bestseason": "March to May",
+      "coordination":[41.89148057593855, 12.492196693967168]
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "October",
       "cheapestmonth": "January",
-      "bestseason": "April to July"
+      "bestseason": "April to July",
+      "coordination":[41.387136277587715, 2.170033152100813]
     },
     {
       "id": 5,
@@ -54,11 +58,12 @@
       "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-iron-travels/bangkok.jpeg",
       "days": 7,
       "totalCost": 992,
-      "description": "Experience Bangkok and Thailand.",
+      "description": "Experience cultural landmarks of Bangkok.",
       "warmestmonth": "April",
       "rainiestmonth": "September",
       "cheapestmonth": "September",
-      "bestseason": "November to March"
+      "bestseason": "November to March",
+      "coordination":[13.760562316349946, 100.4902746701839]
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "December",
       "cheapestmonth": "September",
-      "bestseason": "May, September to October"
+      "bestseason": "May, September to October",
+      "coordination":[37.97517952373741, 23.72216552805625]
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "July",
       "cheapestmonth": "January",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[50.087152311452584, 14.42069858539955]
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "April",
       "cheapestmonth": "January",
-      "bestseason": "March to May, September to November"
+      "bestseason": "March to May, September to November",
+      "coordination":[40.7496020637265, -73.98613877168665]
     },
     {
       "id": 9,
@@ -102,11 +110,12 @@
       "image": "https://www.visitbrazil.net/wp-content/uploads/2020/01/Cristo-Redentor-Brazil-800x445.jpg",
       "days": 7,
       "totalCost": 2500,
-      "description": "Experience the vibrant culture and stunning beaches of Rio de Janeiro.",
+      "description": "Experience the vibrant culture of Rio de Janeiro.",
       "warmestmonth": "February",
       "rainiestmonth": "December",
       "cheapestmonth": "May",
-      "bestseason": "December to March"
+      "bestseason": "December to March",
+      "coordination":[-22.908581708736598, -43.17667690728162]
     },
     {
       "id": 10,
@@ -114,11 +123,13 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
       "days": 7,
       "totalCost": 2800,
-      "description": "Immerse yourself in the vibrant culture and stunning landmarks of Sydney.",
+      "description": "Immerse yourself in the stunning landmarks of Sydney.",
       "warmestmonth": "January",
       "rainiestmonth": "June",
       "cheapestmonth": "August",
-      "bestseason": "March to May, September to November"
+      "bestseason": "March to May, September to November",
+      "coordination":[-33.85599148938171, 151.2153935580191]
+
     },
     {
       "id": 11,
@@ -126,11 +137,12 @@
       "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "days": 7,
       "totalCost": 2100,
-      "description": "Explore the breathtaking landscapes and vibrant culture of Cape Town.",
+      "description": "Explore the breathtaking landscapes of Cape Town.",
       "warmestmonth": "February",
       "rainiestmonth": "June",
       "cheapestmonth": "May",
-      "bestseason": "September to April"
+      "bestseason": "September to April",
+      "coordination":[-33.925310990921105, 18.427926247827806]
     },
     {
       "id": 12,
@@ -138,11 +150,12 @@
       "image": "https://img.freepik.com/free-photo/istanbul-s-ocean-with-cruise-ship_53876-42289.jpg?w=1380&t=st=1708103245~exp=1708103845~hmac=5c85934b4655e732d701893ab0d47133ed60b7ccf29ed3e82231c1b133cfcaf7",
       "days": 5,
       "totalCost": 1500,
-      "description": "Experience the unique blend of cultures and rich history of Istanbul.",
+      "description": "Experience the unique blend of cultures in Istanbul.",
       "warmestmonth": "July",
       "rainiestmonth": "December",
       "cheapestmonth": "February",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[41.00603138436548, 28.97685512618822]
     },
     {
       "id": 13,
@@ -150,11 +163,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Before_Machu_Picchu.jpg/1024px-Before_Machu_Picchu.jpg",
       "days": 10,
       "totalCost": 1800,
-      "description": "Explore the ancient ruins and breathtaking landscapes of Machu Picchu.",
+      "description": "Explore the ancient ruins of Machu Picchu.",
       "warmestmonth": "October",
       "rainiestmonth": "January",
       "cheapestmonth": "May",
-      "bestseason": "May to September"
+      "bestseason": "May to September",
+      "coordination":[-13.163097398390098, -72.54528424970056]
     },
     {
       "id": 14,
@@ -166,7 +180,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "February",
       "cheapestmonth": "June",
-      "bestseason": "November to April"
+      "bestseason": "November to April",
+      "coordination":[25.197552402168135, 55.27431009809042]
     },
     {
       "id": 15,
@@ -174,11 +189,12 @@
       "image": "https://www.goodfreephotos.com/albums/netherlands/amsterdam/riverfront-view-in-amsterdam-netherlands.jpg",
       "days": 5,
       "totalCost": 1600,
-      "description": "Experience the charming canals and vibrant culture of Amsterdam.",
+      "description": "Experience the charming canals of Amsterdam.",
       "warmestmonth": "July",
       "rainiestmonth": "October",
       "cheapestmonth": "February",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[52.373278253397274, 4.892659335977413]
     }
   ]
-}
+} 
