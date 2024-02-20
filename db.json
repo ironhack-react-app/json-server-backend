@@ -213,7 +213,7 @@
     {
       "id": 16,
       "destination": "Moscow, Russia",
-      "image": "https://www.goodfreephotos.com/albums/russia/moscow/cityscape-of-moscow-russia.jpg",
+      "image": "https://www.frenzitours.de/wp-content/uploads/2018/09/destination-moscow-01-1280x854.jpg",
       "days": 4,
       "totalCost": 1800,
       "description": "Discover the historical and cultural heritage of Moscow.",
@@ -225,7 +225,7 @@
       "continent": "Europe"
     },
     {
-      "id": 21,
+      "id": 17,
       "destination": "Vancouver, Canada",
       "image": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
       "days": 6,
@@ -278,6 +278,48 @@
       "cheapestmonth": "February",
       "bestseason": "February to April",
       "coordination":[1.3521, 103.8198],
+      "continent": "Asia"
+    },
+    {
+      "id": 21,
+      "destination": "La Paz, Bolivia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Illimani_La_Paz.jpg/1920px-Illimani_La_Paz.jpg",
+      "days": 20,
+      "totalCost": 1500,
+      "description": "Explore the stunning landscapes of La Paz",
+      "warmestmonth": "November",
+      "rainiestmonth": "January",
+      "cheapestmonth": "June",
+      "bestseason": "May to October",
+      "coordination":[-16.4897, -68.1193],
+      "continent": "South America"
+    },
+    {
+      "id": 22,
+      "destination": "Mexico City, Mexico",
+      "image": "https://assets3.thrillist.com/v1/image/3141329/2880x1620/crop;webp=auto;jpeg_quality=60;progressive.jpg",
+      "days": 15,
+      "totalCost": 1800,
+      "description": "Immerse yourself in the rich cuisine of Mexico D.F",
+      "warmestmonth": "May",
+      "rainiestmonth": "July",
+      "cheapestmonth": "September",
+      "bestseason": "December to April",
+      "coordination":[19.4326, -99.1332],
+      "continent": "North America"
+    },
+    {
+      "id": 23,
+      "destination": "Seoul, South Korea",
+      "image": "https://www.wapititravel.com/blog/wp-content/uploads/2019/09/Gangnam_by_night_Seoul_South_Korea-768x480.jpg.webp",
+      "days": 12,
+      "totalCost": 2500,
+      "description": "Experience the modernity of Seoul",
+      "warmestmonth": "August",
+      "rainiestmonth": "July",
+      "cheapestmonth": "February",
+      "bestseason": "September to November, March to May",
+      "coordination":[37.5665, 126.9780],
       "continent": "Asia"
     }
 
