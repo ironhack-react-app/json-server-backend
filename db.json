@@ -36,7 +36,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "November",
       "cheapestmonth": "February",
-      "bestseason": "March to May"
+      "bestseason": "March to May",
+      "coordination":[41.89148057593855, 12.492196693967168]
     },
     {
       "id": 4,
@@ -48,7 +49,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "October",
       "cheapestmonth": "January",
-      "bestseason": "April to July"
+      "bestseason": "April to July",
+      "coordination":[41.387136277587715, 2.170033152100813]
     },
     {
       "id": 5,
@@ -60,7 +62,8 @@
       "warmestmonth": "April",
       "rainiestmonth": "September",
       "cheapestmonth": "September",
-      "bestseason": "November to March"
+      "bestseason": "November to March",
+      "coordination":[13.760562316349946, 100.4902746701839]
     },
     {
       "id": 6,
@@ -72,7 +75,8 @@
       "warmestmonth": "August",
       "rainiestmonth": "December",
       "cheapestmonth": "September",
-      "bestseason": "May, September to October"
+      "bestseason": "May, September to October",
+      "coordination":[37.97517952373741, 23.72216552805625]
     },
     {
       "id": 7,
@@ -84,7 +88,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "July",
       "cheapestmonth": "January",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[50.087152311452584, 14.42069858539955]
     },
     {
       "id": 8,
@@ -96,7 +101,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "April",
       "cheapestmonth": "January",
-      "bestseason": "March to May, September to November"
+      "bestseason": "March to May, September to November",
+      "coordination":[40.7496020637265, -73.98613877168665]
     },
     {
       "id": 9,
@@ -108,7 +114,8 @@
       "warmestmonth": "February",
       "rainiestmonth": "December",
       "cheapestmonth": "May",
-      "bestseason": "December to March"
+      "bestseason": "December to March",
+      "coordination":[-22.908581708736598, -43.17667690728162]
     },
     {
       "id": 10,
@@ -120,7 +127,9 @@
       "warmestmonth": "January",
       "rainiestmonth": "June",
       "cheapestmonth": "August",
-      "bestseason": "March to May, September to November"
+      "bestseason": "March to May, September to November",
+      "coordination":[-33.85599148938171, 151.2153935580191]
+
     },
     {
       "id": 11,
@@ -132,7 +141,8 @@
       "warmestmonth": "February",
       "rainiestmonth": "June",
       "cheapestmonth": "May",
-      "bestseason": "September to April"
+      "bestseason": "September to April",
+      "coordination":[-33.925310990921105, 18.427926247827806]
     },
     {
       "id": 12,
@@ -145,7 +155,7 @@
       "rainiestmonth": "December",
       "cheapestmonth": "February",
       "bestseason": "April to May, September to October",
-      "coordination":[41.02178371684575, 28.973716744844722]
+      "coordination":[41.00603138436548, 28.97685512618822]
     },
     {
       "id": 13,
@@ -157,7 +167,8 @@
       "warmestmonth": "October",
       "rainiestmonth": "January",
       "cheapestmonth": "May",
-      "bestseason": "May to September"
+      "bestseason": "May to September",
+      "coordination":[-13.163097398390098, -72.54528424970056]
     },
     {
       "id": 14,
@@ -169,7 +180,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "February",
       "cheapestmonth": "June",
-      "bestseason": "November to April"
+      "bestseason": "November to April",
+      "coordination":[25.197552402168135, 55.27431009809042]
     },
     {
       "id": 15,
@@ -181,7 +193,8 @@
       "warmestmonth": "July",
       "rainiestmonth": "October",
       "cheapestmonth": "February",
-      "bestseason": "April to May, September to October"
+      "bestseason": "April to May, September to October",
+      "coordination":[52.373278253397274, 4.892659335977413]
     }
   ]
 } 
