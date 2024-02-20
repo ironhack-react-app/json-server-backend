@@ -209,6 +209,77 @@
       "bestseason": "April to May, September to October",
       "coordination":[52.373278253397274, 4.892659335977413],
       "continent": "Europe"
+    },
+    {
+      "id": 16,
+      "destination": "Moscow, Russia",
+      "image": "https://www.goodfreephotos.com/albums/russia/moscow/cityscape-of-moscow-russia.jpg",
+      "days": 4,
+      "totalCost": 1800,
+      "description": "Discover the historical and cultural heritage of Moscow.",
+      "warmestmonth": "July",
+      "rainiestmonth": "July",
+      "cheapestmonth": "January",
+      "bestseason": "June, September",
+      "coordination":[55.7558, 37.6176],
+      "continent": "Europe"
+    },
+    {
+      "id": 17,
+      "destination": "Toronto, Canada",
+      "image": "https://www.goodfreephotos.com/albums/canada/ontario/toronto/cityscape-of-toronto-ontario-canada.jpg",
+      "days": 3,
+      "totalCost": 1500,
+      "description": "Explore the vibrant city of Toronto.",
+      "warmestmonth": "July",
+      "rainiestmonth": "July",
+      "cheapestmonth": "February",
+      "bestseason": "May, September",
+      "coordination":[43.65107, -79.347015],
+      "continent": "North America"
+    },
+    {
+      "id": 18,
+      "destination": "Reykjavik, Iceland",
+      "image": "https://www.goodfreephotos.com/albums/iceland/reykjavik/downtown-architecture-of-reykjavik-iceland.jpg",
+      "days": 5,
+      "totalCost": 2000,
+      "description": "Experience the unique charm of Reykjavik.",
+      "warmestmonth": "July",
+      "rainiestmonth": "October",
+      "cheapestmonth": "February",
+      "bestseason": "June, July",
+      "coordination":[64.1466, -21.9426],
+      "continent": "Europe"
+    },
+    {
+      "id": 19,
+      "destination": "Male, Maldives",
+      "image": "https://www.goodfreephotos.com/albums/maldives/male/male-island-in-maldives.jpg",
+      "days": 7,
+      "totalCost": 3000,
+      "description": "Discover the tropical paradise of Male.",
+      "warmestmonth": "April",
+      "rainiestmonth": "November",
+      "cheapestmonth": "September",
+      "bestseason": "December to March",
+      "coordination":[4.1755, 73.5093],
+      "continent": "Asia"
+    },
+    {
+      "id": 20,
+      "destination": "Singapore",
+      "image": "https://www.goodfreephotos.com/albums/singapore/singapore/singapore-city-skyline-at-night.jpg",
+      "days": 4,
+      "totalCost": 2500,
+      "description": "Experience the vibrant city-state of Singapore.",
+      "warmestmonth": "May",
+      "rainiestmonth": "December",
+      "cheapestmonth": "February",
+      "bestseason": "February to April",
+      "coordination":[1.3521, 103.8198],
+      "continent": "Asia"
     }
+
   ]
 } 
