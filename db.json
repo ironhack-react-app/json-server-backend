@@ -26,8 +26,8 @@
     },
     {
       "id": 3,
-      "destination": "Rome, Italy",
-      "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-iron-travels/rome.jpeg",
+      "destination": "Florence, Italy",
+      "image": "https://www.placesofjuma.com/wp-content/uploads/2023/08/Florence-1n1-scaled.jpg",
       "days": 3,
       "totalCost": 346,
       "description": "Experience the rich history of Rome.",
@@ -146,7 +146,7 @@
     },
     {
       "id": 13,
-      "destination": "Machu Picchu, Peru",
+      "destination": "Aguas Calientes, Peru",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Before_Machu_Picchu.jpg/1024px-Before_Machu_Picchu.jpg",
       "days": 10,
       "totalCost": 1800,
