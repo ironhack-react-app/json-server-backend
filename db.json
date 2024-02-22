@@ -4,7 +4,6 @@
       "id": 1,
       "destination": "Paris, France",
       "image":"//res.klook.com/image/upload/Mobile/City/swox6wjsl5ndvkv5jvum.jpg",
-     // "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-iron-travels/paris.jpg",
       "days": 7,
       "totalCost": 2200,
       "description": "Explore the romantic streets of Paris.",
@@ -19,7 +18,7 @@
     {
       "id": 2,
       "destination": "Tokyo, Japan",
-      "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-iron-travels/tokyo.jpeg",
+      "image":"//static.333travel.nl/web-images/06/2019/5cf7dcec80426/japan-tokyo-sensoji-temple-in-asakusa.jpeg",
       "days": 7,
       "totalCost": 1866,
       "description": "Discover the vibrant culture of Tokyo.",
@@ -365,3 +364,4 @@
   ]
 } 
 
+ 
