@@ -344,6 +344,21 @@
       "coordination":[37.5665, 126.9780],
       "continent": "Asia",
       "timezone": "Asia/Seoul"
+    },
+    {
+      "id": 24,
+      "destination": "London, United Kingdom",
+      "image": "https://www.signaturetownhousehydepark.co.uk/blog/wp-content/uploads/2023/02/Tower-Bridge.jpg",
+      "days": 10,
+      "totalCost": 3000,
+      "description": "Discover the historic charm of London",
+      "warmestmonth": "July",
+      "rainiestmonth": "October",
+      "cheapestmonth": "January",
+      "bestseason": "March to May,September to November",
+      "coordination": [51.5074, -0.1278],
+      "continent": "Europe",
+      "timezone": "Europe/London"
     }
 
   ]
